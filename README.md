@@ -5,7 +5,7 @@ In the semiconductor manufacturing company, Plug and Ceramic has their best suit
 Before coming to manufacturing process, we should determine their best suitable match in size, which helps increase accuracy in physical structure of products, from that enhance performance of electrical characteristics of products while testing.
 Thus, I built this simple C# WinForms app as a testing solution. With the input raw data Excel file (this file is provided information about 11 samples of size, from every PLug Lot and Ceramic Lot), 
 software app auto-calculate the potiential matching. Depending on specific threshold, the capabilities of each case are sorted as Pass and Fail percent, then visualize this in data board for users.
-![ input ] (assets/input.png)
+![ input ](assets/output.png)
 # Technologies used 
 1. Windows Forms App (.NET framework).
 2. C# programming language in Visual Studio.
